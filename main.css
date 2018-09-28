@@ -108,7 +108,7 @@ faqpanel
   width:100%;
 }
 footer{
-  margin-bottom: 0 auto;
+  margin-bottom: -10px;
   background-color: grey;
 }
 footer ul{
