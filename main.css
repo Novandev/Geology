@@ -12,6 +12,14 @@ body{
   background-repeat: no-repeat;
 }
 
+#hero2 {
+  height: calc(99vh - 50px);
+  width: 100%;
+  background: linear-gradient(rgba(44, 62, 80,.3), rgba(44, 62, 80,.3)), url('http://2.bp.blogspot.com/_5IWl-cAPUIs/SqdJkKzIYQI/AAAAAAAABP4/IHP7ZqgU4L0/s400/DevilDick.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 /* Hero overlay section */
 .hero-overlay-text {
   z-index: 5;
