@@ -107,3 +107,13 @@ faqpanel
 #frack-img {
   width:100%;
 }
+footer{
+  margin-bottom: 0 auto;
+  background-color: grey;
+}
+footer ul{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
